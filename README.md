@@ -54,4 +54,6 @@ So this robo race car is basically:
 <img width="1512" height="982" alt="Screenshot 2026-05-04 at 4 19 26 PM" src="https://github.com/user-attachments/assets/72a2064e-327e-4b4a-98a0-4babf2c3e86b" />
 ## CAD
 
+Reference Material -- https://www.spu.edu.sy/downloads/files/1495967538_1111.pdf
+
 <img width="1512" height="982" alt="Screenshot 2026-05-04 at 4 19 19 PM" src="https://github.com/user-attachments/assets/c3fc7b64-14cf-44f8-8c7b-2578c11d6437" />
