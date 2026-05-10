@@ -1,6 +1,6 @@
 # Robo Race Car
 
-This is a fast (and sometimes unpredictable) robo race car built using ESP32 and motor drivers.  
+This is a fast robo race car built using ESP32 and motor drivers.  
 The goal of this project is simple — **make a remote controlled car that actually feels responsive and fun to drive**.
 
 
@@ -8,7 +8,7 @@ The goal of this project is simple — **make a remote controlled car that actua
 
 ## Idea Behind the Project
 
-I wanted to build something more practical than just blinking LEDs.  
+I wanted to build something more practical .  
 So this robo race car is basically:
 
 - Controlled wirelessly (RC / signals)
