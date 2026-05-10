@@ -19,13 +19,17 @@ So this robo race car is basically:
 
 ## Components Used
 
-- ESP32 (main brain)
-- L298N Motor Driver
-- 2 DC Motors (for wheels)
-- Chassis (basic robot car frame)
-- Battery pack (depends what you have)
-- RC Receiver / PWM input
-- Jumper wires (lots of them… trust me)
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|----------|----------|------------------|------|-------------|
+| ESP32 | Main Controller | 1 | 5.00 | https://robu.in/product/esp32-development-board/ | Robu |
+| L298N | Motor Driver | 1 | 3.50 | https://robu.in/product/l298n-dual-h-bridge-motor-driver/ | Robu |
+| Johnson Motor | Wheel Movement | 4 | 26.00 | https://robu.in/product/dc-geared-motor/ | Robu |
+| Robot Chassis | Car Base | 1 | 8.00 | https://robu.in/product/robot-chassis-kit/ | Robu |
+| RC Receiver | Receive Controller Signals | 1 | 10.00 | https://robu.in/product/fs-ia6b-receiver/ | Robu |
+| RC Transmitter | Wireless Controller | 1 | 45.00 | https://robu.in/product/flysky-fs-i6-transmitter/ | Robu |
+| Battery Pack | Power Supply | 1 | 22.00 | https://robu.in/product/18650-battery-holder/ | Robu |
+| Jumper Wires | Connections | 1 | 1.00 | https://robu.in/product/male-to-female-jumper-wire-pack/ | Robu |
+| Wheels | Movement | 4 | 4.00 | https://robu.in/product/robot-wheel/ | Robu |
 
 ---
 
