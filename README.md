@@ -31,6 +31,9 @@ So this robo race car is basically:
 | Jumper Wires | Connections | 1 | 1.00 | https://robu.in/product/male-to-female-jumper-wire-pack/ | Robu |
 | Wheels | Movement | 4 | 4.00 | https://robu.in/product/robot-wheel/ | Robu |
 
+
+## Note - I have all components except motor and battery . i have battery too but of very low quality 😭. So i am asking for grant because my batteries can't supply for continuous 5 mins to BO motor..
+
 ---
 
 ## Pin Configuration
